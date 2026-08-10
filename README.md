@@ -1,6 +1,6 @@
 # zimbra-nextcloud-connector
 
-Cloud integrates Nextcloud file browsing, upload, media preview, public read-only links, trash management and collaborative document editing into Zimbra Modern UI. It supports ONLYOFFICE and Euro-Office through the matching Nextcloud connector.
+This Zimlet integrates Nextcloud directly into the Zimbra Modern UI, providing file browsing, uploads, media previews, public read-only links, trash management, and collaborative document editing. It supports both ONLYOFFICE and Euro-Office through their respective Nextcloud connectors.
 
 Created and maintained by **Franck Chalon** as an independent community project.
 
