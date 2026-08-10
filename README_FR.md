@@ -254,6 +254,12 @@ npm ci
 
 Le script exécute les tests frontend, installateur et Java, puis produit l’archive et son fichier SHA-256 dans `dist/`. Les dépendances npm servent uniquement à la compilation et ne sont pas embarquées dans l’archive installable.
 
+## Assistance par intelligence artificielle
+
+Ce projet a été conçu et développé avec l'aide d'outils d'intelligence artificielle.
+
+L'IA a été utilisée pour assister la génération de code, le débogage, la documentation, les traductions et la structuration du projet. L'implémentation finale, les tests, la configuration et la publication ont été réalisés et validés par le mainteneur du projet.
+
 ## Publication communautaire
 
 GitHub doit être la référence pour le code, les issues, les tags, les archives et leurs sommes SHA-256. Pour cette première livraison, créez une release nommée **3.0.2 Public Beta 1**, cochez **Set as a pre-release**, puis référencez-la dans la galerie Zeta Alliance et sur le forum Zimbra. La procédure complète se trouve dans [PUBLISHING.md](PUBLISHING.md).
