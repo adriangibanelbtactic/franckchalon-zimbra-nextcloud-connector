@@ -72,6 +72,12 @@ For complete security, network, account-mode, troubleshooting and recovery instr
 
 Use a public GitHub repository as the source of truth. Publish the source, BSD-3-Clause license, tagged release, release ZIP and `SHA256SUMS`; never publish a real `nextcloud-zimlet.properties` file or credentials. The Zeta Alliance gallery and Zimbra Community forum can then link to the GitHub release. Keep unreleased builds clearly marked and use the issue tracker for compatibility reports.
 
+## AI assistance
+
+This project was designed and developed with the assistance of artificial intelligence tools.
+
+AI was used to help with code generation, debugging, documentation, translations and project structuring. The final implementation, testing, configuration and publication were performed and validated by the project maintainer.
+
 ## License
 
 BSD-3-Clause. Copyright 2026 Franck Chalon.
