@@ -78,6 +78,11 @@ This project was designed and developed with the assistance of artificial intell
 
 AI was used to help with code generation, debugging, documentation, translations and project structuring. The final implementation, testing, configuration and publication were performed and validated by the project maintainer.
 
+## Disclaimer
+
+This is an independent community project and is not affiliated with, endorsed by, or sponsored by Zimbra.
+Zimbra is a trademark of its respective owner.
+
 ## License
 
 BSD-3-Clause. Copyright 2026 Franck Chalon.
