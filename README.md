@@ -80,8 +80,11 @@ AI was used to help with code generation, debugging, documentation, translations
 
 ## Disclaimer
 
-This is an independent community project and is not affiliated with, endorsed by, or sponsored by Zimbra.
-Zimbra is a trademark of its respective owner.
+This is an independent community project and is not affiliated with, endorsed by, sponsored by, or officially supported by Zimbra.
+
+The name "Zimbra" is used solely to indicate compatibility with the Zimbra platform.
+
+Zimbra and related trademarks are the property of their respective owners.
 
 ## License
 
